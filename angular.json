@@ -32,7 +32,8 @@
                  "allowedCommonJsDependencies": [
         "jspdf-autotable",
         "html2canvas",
-        "dompurify"
+        "dompurify",
+        "file-saver"
       ],
             "tsConfig": "tsconfig.app.json",
             "assets": [
