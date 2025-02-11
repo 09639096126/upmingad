@@ -29,6 +29,11 @@
             "polyfills": [
               "zone.js"
             ],
+                 "allowedCommonJsDependencies": [
+        "jspdf-autotable",
+        "html2canvas",
+        "dompurify"
+      ],
             "tsConfig": "tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
