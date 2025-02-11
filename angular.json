@@ -33,7 +33,8 @@
         "jspdf-autotable",
         "html2canvas",
         "dompurify",
-        "file-saver"
+        "file-saver",
+         "exceljs"
       ],
             "tsConfig": "tsconfig.app.json",
             "assets": [
